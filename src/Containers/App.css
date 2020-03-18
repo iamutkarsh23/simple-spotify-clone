@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+.App {
+  text-align: center;
+
+}
+
+#tagline-one {
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+  font-size: 55px;
+  color: white;
+}
+
+#tagline-two {
+  font-family: 'Lato', sans-serif;
+  font-size: 35px;
+  color: white;
+}
+
+#try-free-btn {
+  font-family: 'Lato', sans-serif;
+  font-size: small;
+  height: 45px;
+  width: 160px;
+  border-radius: 45px;
+}
+
+#footer{
+  font-family: 'Lato', sans-serif;
+}
